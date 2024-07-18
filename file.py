@@ -1,1 +1,1 @@
-second file
+print ("hello world")
